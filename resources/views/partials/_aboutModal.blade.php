@@ -1,0 +1,3 @@
+<div class="body sans gamma light centered">
+    We aim to provide a platform for those who document and capture the world around us, bringing them together to create a lasting record of life on Earth; so that people everywhere can experience the cultural and natural wonders of our planet, can feel more connected to the biggest issues facing the world today, and can be empowered to <span class="no-wrap">create a better future.</span>
+</div>
